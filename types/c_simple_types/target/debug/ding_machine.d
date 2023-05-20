@@ -1,0 +1,1 @@
+/mnt/DATA-A/RUST/ultimate_rust_code/types/c_simple_types/target/debug/ding_machine: /mnt/DATA-A/RUST/ultimate_rust_code/types/c_simple_types/src/lib.rs /mnt/DATA-A/RUST/ultimate_rust_code/types/c_simple_types/src/main.rs
